@@ -8,7 +8,7 @@ Solução para o desafio [Results summary component challenge on Frontend Mentor
 
 ### 🔗 Links
 
-- Demo: [Add live site URL here](https://your-live-site-url.com)
+- [Live Demo](https://numenorr.github.io/FEM-resultsComponent/)
 
 ### 💡 Feito com
 
